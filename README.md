@@ -1,0 +1,1 @@
+SmartStore.sln for test
